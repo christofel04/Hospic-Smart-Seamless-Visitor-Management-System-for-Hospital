@@ -1,0 +1,2 @@
+# Hospic-Smart-Seamless-Visitor-Management-System-for-Hospital
+ Using Amazon Web Services ( AWS ) environment, Python programming languange and Tableau, create Smart Seamless Visitor Management System for Hospital to ease visitor management during Covid19 Pandemic. By Leveraging Big Data Technology and Facial Recognition to Detect and Monitor Visitors, and Machine Learning Algorithm to Predict Visitor Density and Analyze Visitor's Behavior.   
