@@ -21,9 +21,8 @@ The system will collect data and give insights to spot patterns of visitor’s v
 5. **Customizable Dashboard**
 Hospic is equipped with a customizable dashboard where hospitals can easily set their visitation rules. Visitation rules are dynamic and therefore changeable whenever needed. After the rules are set, it will be automatically applied to the whole system.
 
-![]()
 
-How Does It Work? Let's look at This Interesting Video [Here](https://youtu.be/PsSdeTeitsc)
+**How Does It Work? Let's look at This Interesting Video [Here](https://youtu.be/PsSdeTeitsc)
 
 ## The Architecture
 
