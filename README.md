@@ -24,6 +24,11 @@ Hospic is equipped with a customizable dashboard where hospitals can easily set 
 
 **How Does It Work? Let's look at This Interesting Video [Here](https://youtu.be/PsSdeTeitsc)**
 
+![](https://github.com/christofel04/Hospic-Smart-Seamless-Visitor-Management-System-for-Hospital/blob/main/Dashboard/dashboard.png?raw=true)
+
+![](https://github.com/christofel04/Hospic-Smart-Seamless-Visitor-Management-System-for-Hospital/blob/main/Dashboard/dashboard2.png?raw=true)
+
+
 ## The Architecture
 
 ### System Architecture
@@ -37,6 +42,9 @@ Hospic is equipped with a customizable dashboard where hospitals can easily set 
 
 ## Demo
 
+![](https://github.com/christofel04/Hospic-Smart-Seamless-Visitor-Management-System-for-Hospital/blob/main/Demo/Demo_photo1.png?raw=true)
+
+![](https://github.com/christofel04/Hospic-Smart-Seamless-Visitor-Management-System-for-Hospital/blob/main/Demo/Demo_photo2.png?raw=true)
 
 ## Some Notes:
 
