@@ -1,6 +1,10 @@
 # Hospic-Smart-Seamless-Visitor-Management-System-for-Hospital
 
+!()[https://github.com/christofel04/Hospic-Smart-Seamless-Visitor-Management-System-for-Hospital/blob/main/Hospic_Logo.png]
+
+
 This is **Smart Seamless Visitor Management System for Hospital** Created by Christofel Goenawan and ***Cloud Meatball Teams*** where the features are :
+
 
 1. **Touchless Visitor Identification**
 Visitors are identified based on their facial features through the use of facial recognition technology. With this feature, the system can identify registered and unregistered people in the building, and thus administrators are notified if there are any further actions needed.  
