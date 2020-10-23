@@ -1,7 +1,7 @@
 # Hospic-Smart-Seamless-Visitor-Management-System-for-Hospital
 
 
-![](Hospic_Logo.png)
+<div align=”center”>  <img src= "Hospic_Logo.png"> </div>
 
 This is **Smart Seamless Visitor Management System for Hospital** Created by Christofel Goenawan and ***Cloud Meatball Teams*** where the features are :
 
