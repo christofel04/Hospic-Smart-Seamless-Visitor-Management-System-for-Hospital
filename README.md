@@ -1,6 +1,6 @@
 # Hospic-Smart-Seamless-Visitor-Management-System-for-Hospital
 
-https://github.com/christofel04/Hospic-Smart-Seamless-Visitor-Management-System-for-Hospital/blob/main/Hospic_Logo.png
+!(Hospic_Logo)[https://github.com/christofel04/Hospic-Smart-Seamless-Visitor-Management-System-for-Hospital/blob/main/Hospic_Logo.png]
 
 
 This is **Smart Seamless Visitor Management System for Hospital** Created by Christofel Goenawan and ***Cloud Meatball Teams*** where the features are :
