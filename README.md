@@ -29,4 +29,9 @@ Hospic is equipped with a customizable dashboard where hospitals can easily set 
 ## Demo
 
 
+## Some Notes:
+
+- Check The Interesting Video [Here](https://youtu.be/PsSdeTeitsc) to Know Hospic More !!
+- For more information kindly reach me through :
+***christofel04@gmail.com***
 
